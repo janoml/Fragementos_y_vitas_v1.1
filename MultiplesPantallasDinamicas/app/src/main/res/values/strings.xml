@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Noticias</string>
+    <string name="deportes">Deportes</string>
+    <string name="principales">Principales</string>
+    <string name="tecn_logicas">Tecnólogicas</string>
+    <string-array name="opciones">
+        <item>Principales</item>
+        <item>Tecnologias</item>
+        <item>Deportes</item>
+    </string-array>
+</resources>
