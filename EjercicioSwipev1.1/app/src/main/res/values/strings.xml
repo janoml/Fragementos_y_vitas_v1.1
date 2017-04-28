@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Ejercicio Swipe v1.1</string>
+    <string-array name="heavy_metal">
+        <item>20. Twisted Sister - I Wanna Rock</item>
+        <item>19. Alice in Chains - Man in the Box</item>
+        <item>18. Skid Row - Slave to the Grind</item>
+        <item>17. Mötley Crüe - Live Wire</item>
+        <item>16. Pantera - Walk</item>
+        <item>15. Rage Against the Machine - Bulls on Parade</item>
+        <item>14. System of a Down - Toxicity  </item>
+        <item>13. Dio - Rainbow in the Dark </item>
+        <item>12. Anthrax y Public Enemy - Bring the Noise</item>
+        <item>11. Megadeth - Peace Sells</item>
+        <item>10. Motörhead - Ace of Spades</item>
+        <item>9. Ozzy Osbourne - Crazy Train</item>
+        <item>8. Slayer - Raining Blood</item>
+        <item>7. Iron Maiden - The Number of the Beast</item>
+        <item>6. KISS - Detroit Rock City</item>
+        <item>5. Judas Priest - Youve Got Another Thing Comin</item>
+        <item>4. AC/DC - Back in Black</item>
+        <item>3. Metallica - Master of Puppets</item>
+        <item>2. Guns N Roses - Welcome to the Jungle</item>
+        <item>1. Black Sabbath - Iron Man</item>
+
+    </string-array>
+
+    <string-array name="rock_es">
+        <item>1.Por la Boca Víve el Pez - Fito y Fitipaldis</item>
+        <item>2. So Payaso Extremoduro </item>
+        <item>3. Rock y Roll Star (Bec 05) - Loquillo y Los Trogloditas </item>
+        <item>4. Agradecido -(Dirécto 99) Rosendo</item>
+        <item>5.El Roce de Tu -Cuerpo Platero y Tú</item>
+        <item>6. La Posada de los Muertos Mägo de Oz </item>
+
+    </string-array>
+
+    <string-array name="electronica">
+        <item>Cancion 1</item>
+        <item>Cancion 2 </item>
+        <item>Cancion 3 </item>
+        <item>Cancion 4</item>
+        <item>Cancion 5</item>
+        <item>Cancion 6</item>
+
+    </string-array>
+</resources>
